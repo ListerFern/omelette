@@ -1,0 +1,26 @@
+#header {
+  color: blue;
+  font-size: 50px;
+  font-family: 'Charmonman', cursive;
+}
+
+#subheader {
+  color: red;
+  font-size: 35px;
+  font-family: 'Libre Baskerville', serif;
+}
+.subheader {
+  color:blue;
+  font-size:  25px;
+}
+body {
+   background-image: url("images/background.jpg");
+   background-color: #cccccc;
+
+}
+
+.border {
+  background-color:white;
+  border: solid black 1px;
+  border-radius:10px;
+}
